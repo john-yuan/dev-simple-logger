@@ -4,7 +4,7 @@ A simple logger that write log to the console with time and colors.
 
 ## Install
 
-This module is published to [NPM][NPM], you can install it with following command:
+This module is published to [NPM][NPM], you can install it with the following command:
 
 [NPM]: https://www.npmjs.com/package/@john-yuan/dev-simple-logger
 
